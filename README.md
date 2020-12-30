@@ -1,6 +1,6 @@
 # Welcome to ICE Page 🌴
 
-[![jdjdjdjdjd](https://img.shields.io/website?label=ICE🍿&style=for-the-badge&url=https://github.com/ICExFS)]()
+[![website](https://img.shields.io/website?label=ICE🍿&style=for-the-badge&url=https://github.com/ICExFS)]()
 
 [<img alt="Discord Server" src="https://discord.com/api/guilds/767419095845961768/embed.png" />][webdevplaylist]
 
