@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=ICE🍿&style=for-the-badge&url=https%3A%2F%2Fgithub.com/ICExFS)][ntg]
 
-[<img alt="Discord Server" src="https://discord.com/api/guilds/767419095845961768/embed.png" />][webdevplaylist]
+[<img alt="Discord Server" src="https://discord.com/api/guilds/767419095845961768/embed.png" />][dcserv]
 
 # Some info about me 🦄 :
 * 🇹🇷 Im living in Turkish  
@@ -18,7 +18,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][ntg]
 [<img align="left" alt="Python" width="26px" src="https://media.discordapp.net/attachments/786550175397052419/793874820440784896/image0.png" />][ntg]
 
-
+[dcserv]: https://discord.gg/8JwvnENcpY
 [ntg]: https://github.com/ICExFS
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
