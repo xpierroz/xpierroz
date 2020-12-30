@@ -1,9 +1,5 @@
 # Welcome to ICE Page 🌴
 
-.. image:: https://discord.com/api/guilds/336642139381301249/embed.png
-   :target: https://discord.gg/r3sSKJJ
-   :alt: Discord server invite
-
 [![Website](https://img.shields.io/website?label=ICE🍿&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]()
 
 # Some info about me 🦄 :
@@ -19,6 +15,7 @@
 # I'm coding using 🍌 :
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="Python" width="26px" src="https://media.discordapp.net/attachments/786550175397052419/793874820440784896/image0.png" />][webdevplaylist]
+[<img align="left" alt="Discord Server" width="26px" src="https://discord.com/api/guilds/336642139381301249/embed.png" />][webdevplaylist]
 
 
 [website]: https://codeSTACKr.com
