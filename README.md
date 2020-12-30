@@ -1,5 +1,9 @@
 # Welcome to ICE Page 🌴
 
+.. image:: https://discord.com/api/guilds/336642139381301249/embed.png
+   :target: https://discord.gg/r3sSKJJ
+   :alt: Discord server invite
+
 [![Website](https://img.shields.io/website?label=ICE🍿&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]()
 
 # Some info about me 🦄 :
