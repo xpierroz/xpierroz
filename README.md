@@ -1,11 +1,11 @@
 # Welcome to ICE Page 🌴
 
-[![Website](https://img.shields.io/website?label=SLX‎.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]()
+[![Website](https://img.shields.io/website?label=ICExFS&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]()
 
-Here, you can find ✨ :
-* SelfBot 🥥
-* Generator ☁️
-* Grabber 🦔
+# Some info about me 🦄 :
+* 🇹🇷 Im living in Turkish  
+* 🍔 Hamburger is the best food ever seen
+* 🌱 Ewww, only chill mood here
 
 # WebSite : 🦋
 [SLX WebSite](www.projectslx.adkynet.fr)
