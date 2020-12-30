@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=ICE🍿&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]()
 
-[<img align="left" alt="Discord Server" src="https://discord.com/api/guilds/767419095845961768/embed.png" />][webdevplaylist]
+[<img alt="Discord Server" src="https://discord.com/api/guilds/767419095845961768/embed.png" />][webdevplaylist]
 
 # Some info about me 🦄 :
 * 🇹🇷 Im living in Turkish  
