@@ -1,6 +1,6 @@
 # Welcome to ICE Page 🌴
 
-[![Website](https://img.shields.io/website?label=ICE🍚&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]()
+[![Website](https://img.shields.io/website?label=ICE🍿&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]()
 
 # Some info about me 🦄 :
 * 🇹🇷 Im living in Turkish  
