@@ -1,6 +1,6 @@
 # Welcome to ICE Page 🌴
 
-[![website](https://img.shields.io/website?label=ICE🍿&style=for-the-badge)]()
+[![website](https://img.shields.io/website?label=ICE🍿&style=for-the-badge&url=tamere)]()
 
 [<img alt="Discord Server" src="https://discord.com/api/guilds/767419095845961768/embed.png" />][webdevplaylist]
 
