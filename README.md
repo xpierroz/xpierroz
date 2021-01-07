@@ -7,7 +7,7 @@
 # Some info about me 🦄 :
 * 🇹🇷 Im living in Turkish  
 * 🍔 Hamburger is the best food ever seen
-* 🌱 Ewww, only chill mood here
+* 🌱 Starfoula j'ai faim
 
 # Im currently working on 🌵 :
 * 🦋 SLX Project 
