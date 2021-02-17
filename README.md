@@ -6,8 +6,8 @@
 
 # 🦄 ::
 * 🇹🇷 Turkish >>>>
-* 🍔 Hamburger is the best food ever seen
-* 🌱 Starfoula j'ai faim
+* 🍔 Oui oui baguette
+* 🌱 PY > JS
 
 # Im currently working on 🌵 :
 * 🦋 DC Selfbot 
