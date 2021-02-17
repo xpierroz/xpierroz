@@ -4,17 +4,15 @@
 
 [<img alt="Discord Server" src="https://discord.com/api/guilds/767419095845961768/embed.png" />][dcserv]
 
-# Some info about me 🦄 :
-* 🇹🇷 Im living in Turkish  
+# 🦄 ::
+* 🇹🇷 Turkish >>>>
 * 🍔 Hamburger is the best food ever seen
 * 🌱 Starfoula j'ai faim
 
 # Im currently working on 🌵 :
-* 🦋 SLX Project 
-* 🍪 Some HTML shit
-* 🍡 Hacking NASA
+* 🦋 DC Selfbot 
 
-# I'm coding using 🍌 :
+# 🍌 ::
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][ntg]
 [<img align="left" alt="Python" width="26px" src="https://media.discordapp.net/attachments/786550175397052419/793874820440784896/image0.png" />][ntg]
 
