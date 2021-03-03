@@ -9,5 +9,4 @@
 * 🍔 Oui oui baguette
 * 🌱 PY > JS
 
-# Im currently working on 🌵 :
-* 🦋 DC Selfbot 
+# MY CHEEEETOOOOOOOSSSSSSSSSS 🌵
