@@ -8,5 +8,7 @@
 * 🇹🇷 Turkish >>>>
 * 🍔 Oui oui baguette
 * 🌱 PY > JS
+* 🔴 Mining BitCoin
+* 🟢 Mining Commits
 
 # MY CHEEEETOOOOOOOSSSSSSSSSS 🌵
