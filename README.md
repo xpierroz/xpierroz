@@ -1,14 +1,3 @@
 # Welcome to ICE Page 🌴
 
-![Website](https://img.shields.io/website?label=ICE🍿&style=for-the-badge&url=https%3A%2F%2Fgithub.com/ICExFS)
-
-<img alt="Discord Server" src="https://discord.com/api/guilds/767419095845961768/embed.png" />
-
-# 🦄 ::
-* 🇹🇷 Turkish >>>>
-* 🍔 Oui oui baguette
-* 🌱 PY > JS
-* 🔴 Mining BitCoin
-* 🟢 Mining Commits
-
-# MY CHEEEETOOOOOOOSSSSSSSSSS 🌵
+![Scrat](https://static.wikia.nocookie.net/p__/images/0/0b/Scrat_%28Ice_Age%29.png/revision/latest/scale-to-width-down/350?cb=20200725151850&path-prefix=protagonist)
