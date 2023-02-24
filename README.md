@@ -1,1 +1,1 @@
-![Scrat](https://static.wikia.nocookie.net/p__/images/0/0b/Scrat_%28Ice_Age%29.png/revision/latest/scale-to-width-down/350?cb=20200725151850&path-prefix=protagonist)
+[![Discord Presence](https://lanyard.cnrad.dev/api/951401018065846372)](https://discord.com/users/951401018065846372)
