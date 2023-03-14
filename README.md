@@ -1,1 +1,2 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/951401018065846372)](https://discord.com/users/951401018065846372)
+<img src="https://github.com/xpierroz/xpierroz/blob/master/github-metrics.svg" alt="github metrics">
