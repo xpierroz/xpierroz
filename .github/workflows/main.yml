@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: lnxcz
+          user: xpierroz
           template: classic
           base: header, isocalendar, activity, community, repositories, metadata
           config_timezone: Europe/Prague
