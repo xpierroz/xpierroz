@@ -2,6 +2,11 @@
   <a href="https://discord.com/users/951401018065846372"><img src="https://lanyard-profile-readme.vercel.app/api/951401018065846372" width=45%></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/xpierroz"><img src="https://img.shields.io/github/followers/xpierroz?style=for-the-badge"></img></a>
+  <a href="https://github.com/addi00000"><img src="https://img.shields.io/github/stars/xpierroz?style=for-the-badge"></img></a>
+</p>
+
 <p align=center>
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></img>
   <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"></img>
