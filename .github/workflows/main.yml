@@ -38,3 +38,5 @@ jobs:
           plugin_followup_sections: repositories
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          plugin_notable: yes
+          plugin_notable_self: yes
