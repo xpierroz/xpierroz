@@ -27,7 +27,7 @@ jobs:
           # Options
           user: xpierroz
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           config_timezone: Europe/Istanbul
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -40,10 +40,3 @@ jobs:
           plugin_isocalendar_duration: half-year
           plugin_notable: yes
           plugin_notable_self: yes
-          plugin_wakatime: yes
-          plugin_wakatime_days: 7
-          plugin_wakatime_limit: 5
-          plugin_wakatime_repositories_visibility: all
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_url: https://wakatime.com/@xpierroz
-          plugin_wakatime_user: xpierroz
