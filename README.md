@@ -4,3 +4,8 @@
 <p align=center>
   <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 </p>
+<a>
+  all repositories and tools are made strictly for educational purposes
+  all tools shouldn't be used for malicious purposes
+  i'm not responsible for your actions
+</a>
